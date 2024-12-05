@@ -1,10 +1,12 @@
 ---
 permalink: /
-title: "This is Quixon's Memory Palace."
+title: "Quixon's Memory Palace."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-# A data-driven personal website
+# This is Quixon's Memory Palace
+
+I'm Wang Qianxu from Sichuan University.
